@@ -13,8 +13,4 @@ Hello world! I am Ivan "Torusaynim" Perlov, a student from Russia learning diffe
 
 ---
 
-<p align="center">
-  <a href="https://github.com/arturssmirnovs/github-profile-views-counter">
-    <img src="https://gpvc.arturio.dev/Torusaynim" align="center" alt="Profile views" />
-  </a>
-</p>
+<!-- Here be Dragons -->
