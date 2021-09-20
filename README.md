@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Torusaynim</h1>
 
-Hello world! I am Ivan "Torusaynim" Perlov, a student from Russia learning different programming and markup languages, and searching for my future field of work. You can find some of my works for university or my own projects here, on GitHub
+### Current status:
+
+- 🔭 Looking for time to continue working on Discord bot and mod for Barotrauma
+- 🌱 Learning about IoT, 3D modelling, AI and Machine Learning
+
+## Resume
+
+Hello world! I am a student from Russia learning different programming and markup languages, and searching for my future field of work. You can find some of my works for university or my own projects here, on GitHub
 
 ## Some stats
 
