@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/images/banner.jpg"></p>
 
-## Current status:
+## Current status
 
 - 🔭 Looking for time to continue working on Discord bot and mod for Barotrauma
 - 🌱 Learning about IoT, 3D modelling, AI and Machine Learning
