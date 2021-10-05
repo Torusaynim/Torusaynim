@@ -2,6 +2,13 @@
 
 <p align="center"><img src="assets/images/banner.jpg"></p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel-Core_i5_10300H-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-GTX1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
 ## Current status
 
 - 🔭 Looking for time to continue working on Discord bot and mod for Barotrauma
