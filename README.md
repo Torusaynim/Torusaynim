@@ -25,6 +25,6 @@ Hello world! I am a student from Russia learning different programming and marku
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torusaynim&layout=compact&theme=graywhite&hide_border=true" align="center" alt="Most Used Languages" />
 </a></p>
-</detailes>
+</details>
 
 <!-- Here be Dragons -->
