@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Torusaynim</h1>
 
-<p align="center"><img src="assets/images/banner.jpg"></p>
+<!-- for the better times <p align="center"><img src="assets/images/banner.jpg"></p> -->
+
+```
+🐟　　　　　　　  　  🐙                            🐬                          🐬
+ 🐟　　　　　　　　                   🐟              🐬                              🐡           🐬
+             🐡                                            🐟                                        🐟
+                        🐠       🐠                                 🐠        🐙                                      🐡
+　　　　　　　　　　         🐠                          🐟                             🐠              🐡
+　　　 🐠　　　　　　          🐠             🐙                 🐟                               🐟
+ 🐡　　　　　　　　🐟       🐠                              🐟                 🐙                                🐠
+                                         🐙          🐟                                                                🐟
+       🐋                       🧜‍♂️                           🐟                🐠                 🦈
+               🐋                                      🐟  🐟                                                       🐙
+         🐋                                                   🐟
+ 
+🌾　　　🌱　 🦀　🌾　       🌱 🐚    🌱        🐌      🌾　🐚     🌱       🌱  🌿   🌾 🦪           🌿   🌱　　🌾  🌱
+```
 
 <!-- PC specs/socials/etc -->
 <p align="center">
